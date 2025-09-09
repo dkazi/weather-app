@@ -15,12 +15,6 @@ A simple desktop weather application built with **Python** and **PyQt5** that al
 
 ---
 
-## Screenshots
-
-*(Add screenshots of your app here, e.g., main window and error messages)*
-
----
-
 ## Installation
 
 1. **Clone the repository:**
